@@ -1,0 +1,10 @@
+
+breeds-api/.idea/
+
+breeds-api/target/
+
+*.iml
+
+config-service/.idea/
+
+config-service/target/
