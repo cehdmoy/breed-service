@@ -4,6 +4,7 @@
 
 Para ejecutar estos servicios se debe tener las siguientes 
 preciondiciones: 
+
 - puerto: 8080 disponible
 - puerto 8082 disponible
 
@@ -11,7 +12,7 @@ preciondiciones:
 
 `Luego abrir una terminal en breeds-api y ejecutar el script start.sh por favor espere a que el servicio levante, no debería tomar más de un minuto`
 
-Estos scrips compilaran en MS y ejecurán java - jar, espere que cada uno de ellos termine y no cirre ests terminales
+Estos scrips compilaran los MS usando los comandos maven y ejecurán java - jar, espere que cada uno de ellos termine y no cierre estas terminales
 
 Una vez que los servicios estén arriba puede probar los siguientes ejemplplos:
 
